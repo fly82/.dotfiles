@@ -96,7 +96,7 @@
 \pset pager always
 
 -- Set default editor
-\setenv EDITOR 'nvim'
+\setenv PSQL_EDITOR nvim
 
 -- pager_min_lines: is set to greater number than page height, pager will
 -- not be called.
